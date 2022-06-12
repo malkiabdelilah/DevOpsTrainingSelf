@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/CAT-Training-MALKI/e2ef64de-6b81-467e-8a32-77c6898be13d/fbbf79b6-f129-42eb-a36b-e0799a7b7342/_apis/work/boardbadge/627ca93e-3c9b-4a56-8ec5-8043164010f2)](https://dev.azure.com/CAT-Training-MALKI/e2ef64de-6b81-467e-8a32-77c6898be13d/_boards/board/t/fbbf79b6-f129-42eb-a36b-e0799a7b7342/Microsoft.RequirementCategory)
 # DevOpsTrainingSelf
